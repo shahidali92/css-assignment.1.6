@@ -1,0 +1,42 @@
+div{
+     width: 430px;
+     margin: 5px auto;
+     padding: 20px;
+     border: 3px double;
+     margin-top: 20px;
+     border-width: 3px;
+    
+}
+.a{
+background-color:rgb(235, 141, 107);
+width: 70px;
+height: 50px;
+}
+.b{
+     width: 323px;
+     height: 50px;
+     background-color: rgb(184, 222, 236);
+}
+.c{
+     width: 412px;
+     height: 40px;
+     background-color: rgba(252, 252, 96, 0.822);
+}
+.a:hover{
+     background-color: rgba(245, 71, 245, 0.493);
+     cursor: pointer;
+     border-radius: 5px;
+     border-style: hidden;
+}
+.c:hover{
+     background-color: crimson;
+     cursor: pointer;
+     border-radius: 5px;
+     border-style: hidden;
+}
+.b:hover{
+     background-color: cyan;
+     cursor: pointer;
+     border-radius: 5px;
+     border-style: hidden;
+}
